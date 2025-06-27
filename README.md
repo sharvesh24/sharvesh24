@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sharvesh 👋</h1>
 <p align="center">
-  <em>🎓 AI & ML Engineer | 💻 Full-Stack Developer | 🧠 HPC + NLP Enthusiast</em>
+  <em>🎓 AI & ML Engineer | 💻 Full-Stack Developer | 🧠 Data Analyst</em>
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 ## 🔍 About Me
 
 - 🎓 3rd Year B.Tech CSE (AI & ML) student at **SRM Institute of Science and Technology** (CGPA: 9.5)
-- 🌟 Passionate about **Machine Learning**, **Full-Stack Development**, and **High-Performance Computing**
+- 🌟 Passionate about **Machine Learning**, **Full-Stack Development**, and **Data Analysis**
 - 💡 Built impactful projects in **Healthcare**, **NLP**, **Finance**, and **Real-Time Monitoring**
-- ☁️ Completed internships with **AWS**, **EduSkills**, and **CodSoft**
+- ☁️ Completed internships with **NIT Calicut**, **EduSkills**, and **CodSoft**
 - 🤝 Contributor and team member at IEEE SSIT & dBug Labs
 - 📫 Reach me at: `sharveshv246@gmail.com`
 
@@ -39,7 +39,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 
 **Concepts**  
-DSA • DBMS • Operating Systems • OOP • AI • Problem Solving
+DSA • DBMS • Operating Systems • OOPS • AI • Problem Solving
 
 ---
 
@@ -83,16 +83,3 @@ DSA • DBMS • Operating Systems • OOP • AI • Problem Solving
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Engineer.+Learn.+Build.+Repeat.;Fueled+by+Curiosity+%26+Code." />
 </p>
 
-**sharvesh24/sharvesh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
